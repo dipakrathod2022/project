@@ -5,7 +5,7 @@ public class A
 	{
 		
 		
-		System.out.println("hell");
+		System.out.println("krishna only help to girls");
 		
 	}
 
