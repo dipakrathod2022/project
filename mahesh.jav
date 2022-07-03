@@ -5,7 +5,7 @@ public class A
 	{
 		
 		
-		System.out.println("helloworld");
+		System.out.println("hell");
 		
 	}
 
